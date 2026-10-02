@@ -1,0 +1,4 @@
+import requests
+response = requests.get("https://api.open-meteo.com/v1/forecast?latitude=6.5244&longitude=3.3792&current_weather=true")
+print(response.status_code)
+print(response.json())

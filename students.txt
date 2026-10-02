@@ -1,0 +1,4 @@
+Emmanuel, 300, 0
+Tolu, 200, 1
+Amara, 100, 2
+Ugo, 400, 3

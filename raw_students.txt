@@ -1,0 +1,4 @@
+  EMMANUEL , 300 , 85  
+  tolu , 200 , 42  
+  AMARA , 100 , 91  
+  blessing , 400 , 36

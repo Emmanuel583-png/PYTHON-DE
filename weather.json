@@ -1,0 +1,9 @@
+{
+    "time": "2026-09-15T17:15",
+    "interval": 900,
+    "temperature": 27.0,
+    "windspeed": 15.4,
+    "winddirection": 218,
+    "is_day": 1,
+    "weathercode": 1
+}

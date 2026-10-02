@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Emmanuel",
+        "department": "Physics",
+        "level": "300",
+        "score": "85",
+        "status": "pass"
+    },
+    {
+        "name": "Amara",
+        "department": "Physics",
+        "level": "100",
+        "score": "91",
+        "status": "pass"
+    },
+    {
+        "name": "Kemi",
+        "department": "Physics",
+        "level": "300",
+        "score": "78",
+        "status": "pass"
+    },
+    {
+        "name": "Tunde",
+        "department": "Chemistry",
+        "level": "200",
+        "score": "65",
+        "status": "pass"
+    }
+]
