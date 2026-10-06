@@ -10,7 +10,7 @@ for record in records:
     process_record(record)
 
 try:
-    number = int("100")
+    number: int = []
 except ValueError:
     print("bad value")
 else:
