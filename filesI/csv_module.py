@@ -15,6 +15,6 @@ with open("students.csv", "r") as file:
 import csv
 
 students = [
-    {"name": "Emmanuel", "level" "300" "body_count" "0"},
+    {"name": "Emmanuel", "level" :"300" "body_count""0"},
     {"name" "Tolu" "200" "body_count" "1"}
 ]
