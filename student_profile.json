@@ -1,0 +1,10 @@
+{
+    "name": "Osakpolo",
+    "level": "400",
+    "course": [
+        "topology",
+        "poetry",
+        "art"
+    ],
+    "is_active": true
+}

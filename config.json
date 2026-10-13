@@ -1,0 +1,10 @@
+{
+    "api_name": "weather_service",
+    "timeout_seconds": "30",
+    "endpoints": [
+        "/current",
+        "/forecast",
+        "/historical"
+    ],
+    "retry_enabled": true
+}
